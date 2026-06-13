@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Wall-Defense.vcxproj" Id="e6365d28-1152-4ac1-8c0d-af140136c522" />
+</Solution>
